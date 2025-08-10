@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.faa5e4ce.js",
+    "static/media/hamburger01.jpg": "/static/media/hamburger01.b5e4030578509b2f2bac.jpg",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.faa5e4ce.js.map": "/static/js/main.faa5e4ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.faa5e4ce.js"
+  ]
+}
